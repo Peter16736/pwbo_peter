@@ -1,3 +1,3 @@
 <?php
 
-define('BASEURL', 'http://localhost/pwbo_peter-1/public/home/index');
+define('BASEURL', 'http://localhost/pwbo_peter-1/public/');
